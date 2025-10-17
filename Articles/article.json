@@ -456,5 +456,246 @@
       }
     ],
     "category": "space"
+  },
+  {
+    "Article": 7,
+    "title": "When Faith Meets Science: How the Quran Predicted Modern Discoveries",
+    "date": "October 15, 2025",
+    "author": "Ahmad",
+    "duration": "4 min read",
+    "mainImage": "Articles/images/article7/main.png",
+    "attr":"<p class='attr'></p>",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "For centuries, science and religion were seen as rivals, one seeking truth through logic, the other through belief. But the deeper scientists look into the universe, the more many are starting to notice something unexpected:<br>the discoveries of modern science often echo words written in the <b>Quran</b> more than <b>1,400 years ago.</b>"
+      },
+        {
+        "type": "heading",
+        "text": " The Expanding Universe"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (51:47):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“And the heaven We constructed with strength, and indeed, We are [its] expander.”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "In the early 20th century, Edwin Hubble discovered that galaxies are moving away from each other, proving the universe is constantly expanding.<br>Yet this very idea, that the cosmos is stretching. was written in the Quran over a millennium before telescopes even existed.<br><br>Today, NASA’s James Webb Space Telescope continues to confirm this truth, capturing distant galaxies that prove the universe is still growing in size and speed"
+      },
+
+        {
+        "type": "heading",
+        "text": "The Origin of Life from Water"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (21:30):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“We made from water every living thing. Then will they not believe?”"
+      },
+     
+      {
+        "type": "image",
+        "url": "Articles/images/article7/img1.png",
+        "caption": "",
+         "attr":"<p class='attr'></a></p>"
+      },
+      {
+        "type": "paragraph",
+        "text": "Modern biology agrees that all forms of life depend on water.<br>From human cells to bacteria, every living organism needs it for survival, reproduction, and chemical balance. Even NASA’s search for extraterrestrial life begins with one question: “Is there water?”<br><br>This isn’t poetry it’s scientific precision from a book revealed in a desert where water was scarce, yet declared as the source of all life."
+      },
+
+        {
+        "type": "heading",
+        "text": "Embryology and Human Development"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (23:12–14):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“And indeed, We created humankind from an extract of clay,then placed each ˹human˺ as a sperm-drop in a secure place,then We developed the drop into a clinging clot, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators.”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "When the famous embryologist Dr. Keith Moore studied these verses, he was stunned.<br>The Quran describes the exact stages of human development, zygote, embryo, bone, muscle, in the precise order known today through microscopes and ultrasound technology.<br><br>At the time these verses were revealed, such microscopic knowledge was impossible for humans to observe."
+      },
+
+        {
+        "type": "heading",
+        "text": "Mountains as Earth’s Stabilizers"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (78:6-7):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“Have We not made the earth as a bed, and the mountains as pegs”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Geological studies now confirm that mountains have deep roots beneath the surface, much like pegs that stabilize the Earth’s crust.<be>These formations balance tectonic movement and reduce the intensity of earthquakes.<br><br>How could such imagery appear in a 7th-century text, centuries before geology even existed?"
+      },
+          {
+        "type": "heading",
+        "text": "The Barrier Between Two Seas"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (55:19–20):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“He released the two seas, meeting [side by side]; between them is a barrier [so] neither of them transgresses.”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Oceanographers discovered that when saltwater and freshwater meet, they form a distinct boundary layer due to differences in salinity, density, and temperature.<br>This invisible “barrier” prevents the two bodies from mixing immediately, a fact confirmed through satellite oceanography and underwater exploration."
+      },
+        
+          {
+        "type": "heading",
+        "text": "The Iron from Space"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (57:25):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“ And We sent down iron, wherein is mighty power…”"
+      },
+           {
+        "type": "image",
+        "url": "Articles/images/article7/img2.png",
+        "caption": "",
+        "attr":"<p class='attr'></p>"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Modern science has found that iron did not originate on Earth.<br>It was formed in the hearts of massive stars and sent to Earth through meteorites billions of years ago.<br>The Quran’s phrase “sent down” now makes remarkable sens, iron literally came from the heavens."
+      },
+
+
+        {
+        "type": "heading",
+        "text": "The Expanding Darkness of the Universe"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (10:5):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“ It is He who made the sun a shining light and the moon a derived light…”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Astronomers later confirmed that the moon reflects sunlight, it does not produce its own.<br>The Arabic word “noor” (reflected light) for the moon and “siraj” (radiant light) for the sun precisely describe this scientific difference."
+      },
+
+        {
+        "type": "heading",
+        "text": "The Universe Emerging from a Single Origin (The Big Bang)"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (21:30):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them…”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "The Big Bang Theory, one of the most accepted cosmological models, explains that the universe began as a single, dense mass that exploded and expanded, exactly as the Quran described over a millennium ago."
+      },
+
+        {
+        "type": "heading",
+        "text": "The Protective Layers of the Sky"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (21:32):</b>"
+      },
+            {
+        "type": "image",
+        "url": "Articles/images/article7/img3.png",
+        "caption": "",
+        "attr":"<p class='attr'></p>"
+      },
+     
+       {
+        "type": "pullquote",
+        "text": "“And We made the sky a protected ceiling, but they, from its signs, are turning away.”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Earth’s atmosphere shields life from harmful solar radiation, cosmic rays, and meteoroids, functioning like an invisible protective dome.<br>This description matches modern atmospheric science in both accuracy and metaphor."
+      },
+       {
+        "type": "heading",
+        "text": "The Protective Layers of the Sky"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (21:32):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“And We made the sky a protected ceiling, but they, from its signs, are turning away.”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Earth’s atmosphere shields life from harmful solar radiation, cosmic rays, and meteoroids  functioning like an invisible protective dome.<br>This description matches modern atmospheric science in both accuracy and metaphor."
+      },
+
+       {
+        "type": "heading",
+        "text": "The Deep Darkness of the Ocean"
+      },
+       {
+        "type": "paragraph",
+        "text": "<b>Quran (24:40):</b>"
+      },
+       {
+        "type": "pullquote",
+        "text": "“Or [they are] like darkness within a vast deep sea, covered by waves upon waves, over which are clouds  darknesses, some of them upon others…”"
+      },
+     
+      {
+        "type": "paragraph",
+        "text": "Scientists discovered that sunlight cannot penetrate more than 200 meters below sea level, creating complete darkness in the deep ocean  something no human in the 7th century could ever have witnessed."
+      },
+
+      {
+        "type": "heading",
+        "text": "Science Is Catching Up, Not Competing"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Quran is not a science textbook, it is a book of signs.<br>Its purpose is not to explain physics or biology but to awaken reflection, to make us ask how and why such knowledge could exist in an age of no telescopes, no microscopes, and no laboratories.<br><br>Every discovery we make today seems less like a contradiction and more like a confirmation, a reminder that faith and science were never enemies, only partners exploring the same truth from different sides."
+      }
+    ],
+    "category": "science, Quran"
   }
+
 ]
